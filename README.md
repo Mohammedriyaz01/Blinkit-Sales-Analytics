@@ -21,7 +21,7 @@ The project includes:
 - Outlet Size & Location Analysis
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.jpg)
+![Dashboard](dashboard_preview.jpg)
 
 ## Project Workflow
 1. Collected retail sales dataset
